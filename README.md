@@ -11,8 +11,8 @@
 1. Clone repo:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/personal-finance-app.git
-cd personal-finance-app
+git clone https://github.com/YOUR-USERNAME/Personal-Finance-Manager-App.git
+cd Personal-Finance-Manager-App
 ```
 
 2. Install dependencies:
