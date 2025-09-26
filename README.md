@@ -6,6 +6,7 @@
 - See transaction list with delete option
 - Visuals: Pie + Bar chart of expenses by category
 - Data persisted in `localStorage` (no backend required)
+### Code on backend (flask + SQL) is going to upload soon.
 
 ## Setup
 1. Clone repo:
