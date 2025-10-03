@@ -12,7 +12,7 @@
 1. Clone repo:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Personal-Finance-Manager-App.git
+git clone https://github.com/Rithesh101/Personal-Finance-Manager-App.git
 cd Personal-Finance-Manager-App
 ```
 
